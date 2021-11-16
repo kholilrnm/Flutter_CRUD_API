@@ -1,3 +1,7 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/kholilrnm/Flutter_CRUD_API)
+
 ## Flutter Implementasi CRUD
 Ini adalah hasil iseng-iseng belajar flutter CRUD, semoga bisa membantu teman-teman lainnya. terima kasih happy code :smile:
 
