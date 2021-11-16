@@ -7,15 +7,15 @@ Ini adalah hasil iseng-iseng belajar flutter CRUD, semoga bisa membantu teman-te
 
 * Screen Splashscreen
 
-<p align="center"><img src="/screenshot/1.jpg" width="300px" height="500"></p>
+<p align="center"><img src="/screenshot/1.jpg" width="280px" height="500px"></p>
 
 * Screen Home
 
-<p align="center"><img src="/screenshot/2.jpg" width="300px" height="500"></p>
+<p align="center"><img src="/screenshot/2.jpg" width="280px" height="500px"></p>
 
 * Screen Tambah Data
 
-<p align="center"><img src="/screenshot/3.jpg" width="300px" height="500"></p>
+<p align="center"><img src="/screenshot/3.jpg" width="280px" height="500px"></p>
 
 ## Cara Instalasi
 1. Clone repository ini ke project flutter kalian
