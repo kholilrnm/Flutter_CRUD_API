@@ -5,15 +5,15 @@ Ini adalah hasil iseng-iseng belajar flutter CRUD, semoga bisa membantu teman-te
 <p>Bertema : Employee</p>
 <p>Language : Dart</p>
 
-* Layout Utama
+* Screen Splashscreen
 
 <p align="center"><img src="/screenshot/1.jpg" width="300px" height="420px"></p>
 
-* Layout Detail Utama
+* Screen Home
 
 <p align="center"><img src="/screenshot/2.jpg" width="300px" height="420px"></p>
 
-* Layout Kontak Developer
+* Screen Tambah Data
 
 <p align="center"><img src="/screenshot/3.jpg" width="300px" height="420px"></p>
 
