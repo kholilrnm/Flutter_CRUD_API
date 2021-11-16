@@ -7,15 +7,15 @@ Ini adalah hasil iseng-iseng belajar flutter CRUD, semoga bisa membantu teman-te
 
 * Layout Utama
 
-<p align="center"><img src="../screenshot/1.jpg" width="300px" height="420px"></p>
+<p align="center"><img src="/screenshot/1.jpg" width="300px" height="420px"></p>
 
 * Layout Detail Utama
 
-<p align="center"><img src="../screenshot/2.jpg" width="300px" height="420px"></p>
+<p align="center"><img src="/screenshot/2.jpg" width="300px" height="420px"></p>
 
 * Layout Kontak Developer
 
-<p align="center"><img src="../screenshot/3.jpg" width="300px" height="420px"></p>
+<p align="center"><img src="/screenshot/3.jpg" width="300px" height="420px"></p>
 
 ## Cara Instalasi
 1. Clone repository ini ke project flutter kalian
