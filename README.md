@@ -1,16 +1,23 @@
-# crud_employee_v1
+## Flutter CRUD
+Ini adalah hasil iseng-iseng belajar flutter CRUD, semoga bisa membantu teman-teman lainnya. terima kasih happy code :smile:
 
-A new Flutter project.
+## Gambaran demo aplikasi
+<p>Bertema : Employee</p>
+<p>Language : Dart</p>
 
-## Getting Started
+* Layout Utama
 
-This project is a starting point for a Flutter application.
+<p align="center"><img src="../screenshot/1.jpg" width="300px" height="420px"></p>
 
-A few resources to get you started if this is your first Flutter project:
+* Layout Detail Utama
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center"><img src="../screenshot/2.jpg" width="300px" height="420px"></p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Layout Kontak Developer
+
+<p align="center"><img src="../screenshot/3.jpg" width="300px" height="420px"></p>
+
+## Cara Instalasi
+1. Clone repository ini ke project flutter kalian
+2. Happy Code
+
