@@ -1,4 +1,4 @@
-## Flutter CRUD
+## Flutter Implementasi CRUD
 Ini adalah hasil iseng-iseng belajar flutter CRUD, semoga bisa membantu teman-teman lainnya. terima kasih happy code :smile:
 
 ## Gambaran demo aplikasi
