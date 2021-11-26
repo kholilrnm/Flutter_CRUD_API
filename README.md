@@ -23,5 +23,6 @@ Ini adalah hasil iseng-iseng belajar flutter CRUD, semoga bisa membantu teman-te
 
 ## Cara Instalasi
 1. Clone repository ini ke project flutter kalian
-2. Happy Code
+2. flutter pub get
+3. Run and Happy Code
 
